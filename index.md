@@ -1,18 +1,22 @@
 # Design Portfolio
 
 ```
-Personal background inserted here
-You can use the [editor on GitHub](https://github.com/eos7l/CS3041/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, my name is Sylvia Lin. I am a junior student studying Computer Science at Worcester Polytechnic Insitute. 
+I am interested in topics related to design, data science, and Human-Computer Interaction.
+This is a website I created dedicated to the Human-Computer Interaction class I took in B term 2018. 
 ```
 
 ## Project Overview
 ### Project 1 - Design for Others - [Medium Post](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)
+Here is some brief description of the project.
 ### Project 2 - Design for Understanding - [Medium Post](https://medium.com/@sylvia7lin/design-document-design-for-understanding-2df6a4110758)
+Here is some brief description of the project.
 ### Project 3 - Design for Tension - [Medium Post](https://medium.com/@sylvia7lin/design-for-tension-45ed1617a20c)
+Here is some brief description of the project.
 ### Project 2 - Design for Wellbeing - [Medium Post](https://medium.com/@sylvia7lin/design-reflection-design-for-well-being-44d1ec591f94)
-Here is some brief description of the projecct  
+Here is some brief description of the project.
 ### Project 5 - Design for Another World - [Medium Post]
+Here is some brief description of the project.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
