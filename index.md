@@ -1,11 +1,11 @@
 # Design Portfolio
 
-```markdown
+`
      Hi, my name is Sylvia Lin. I am a junior student studying Computer Science at Worcester Polytechnic Insitute. 
 I am interested in topics related to design, data science, and Human-Computer Interaction.
 This is a website I created dedicated to the Human-Computer Interaction class I took in B term 2018. 
-```
-
+`
+```markdown
 ## Project Overview
 - ### Project 1 - Design for Others
 Here is some brief description of the project.
@@ -22,6 +22,7 @@ Here is some brief description of the project.
 - ### Project 5 - Design for Another World
 Here is some brief description of the project.
 [Read Our Medium Post]
+```
 
 ## Design Manifesto
 Here I have a medium post. These are the five main design principles that guide me through the design processes.
@@ -32,13 +33,3 @@ Here I have a medium post. These are the five main design principles that guide 
 5. fifth
 To read more in details, please click here. 
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-why cant i fucking use this properly
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
