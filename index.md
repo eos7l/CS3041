@@ -7,6 +7,7 @@
 ## Project Overview
 
 - ### Project 1 - Design for Others
+lets c whether there is any diff
 > Here is some brief description of the project.
 [**Read on Medium**](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)
 - ### Project 2 - Design for Understanding
