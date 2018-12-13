@@ -3,6 +3,7 @@
 `
 Hi, my name is Sylvia Lin. I am a junior student studying Computer Science at Worcester Polytechnic Insitute. I am interested in topics related to design, data science, and Human-Computer Interaction. This is a website I created in dedication to the Human-Computer Interaction class I took in B term 2018. 
 `
+> Let's also try this. 
 
 ## Project Overview
 - ### Project 1 - Design for Others
@@ -22,7 +23,6 @@ Here is some brief description of the project.
 [Read Our Medium Post]
 
 
-```markdown
 ## Design Manifesto
 Here I have a medium post. These are the five main design principles that guide me through the design processes.
 1. first
@@ -32,4 +32,7 @@ Here I have a medium post. These are the five main design principles that guide 
 5. fifth
 
 To read more in details, please click here. 
+
+```markdown
+!(https://lh5.googleusercontent.com/F2MYwJf2HbcyhC48g6fxTi2zafVdLgMnGBXhpBYeMg_6bMibcVm7PjKtYzVYznp2wdQMz8YlFuI4xKSOwdGufoG6fB8ftx2SVVqCoJ4xg_KVnghyXrRybZDXLqoKfPGCeDmuWG_K)
 ```
