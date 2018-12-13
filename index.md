@@ -1,7 +1,7 @@
 # Design Portfolio
 
-
-> Hi, my name is Sylvia Lin. I am a junior student studying Computer Science at Worcester Polytechnic Insitute. I am interested in topics related to design, data science, and Human-Computer Interaction. This is a website I created in dedication to the Human-Computer Interaction class I took in B term 2018. 
+> 
+Hi, my name is Sylvia Lin. I am a junior student studying Computer Science at Worcester Polytechnic Insitute. I am interested in topics related to design, data science, and Human-Computer Interaction. This is a website I created in dedication to the Human-Computer Interaction class I took in B term 2018. 
 
 
 ## Project Overview
@@ -32,6 +32,7 @@ These are the five main design principles that guide me through the design proce
 5. fifth
 
 To see more in details, please [**Read on Medium**]. 
+
 
 
 `Special thanks to all my past group members who contributed great work to the projects I completed for this class.`
