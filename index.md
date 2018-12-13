@@ -5,7 +5,7 @@ Hi, my name is Sylvia Lin. I am a junior student studying Computer Science at Wo
 I am interested in topics related to design, data science, and Human-Computer Interaction.
 This is a website I created dedicated to the Human-Computer Interaction class I took in B term 2018. 
 ```
-
+```markdown
 ## Project Overview
 ### Project 1 - Design for Others - [Medium Post](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)
 Here is some brief description of the project.
@@ -17,7 +17,7 @@ Here is some brief description of the project.
 Here is some brief description of the project.
 ### Project 5 - Design for Another World - [Medium Post]
 Here is some brief description of the project.
-
+```
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
