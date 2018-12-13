@@ -1,6 +1,6 @@
 # Design Portfolio
 
->Hi, my name is Sylvia Lin. I am a junior student studying Computer Science at Worcester Polytechnic Insitute. I am interested in topics related to design, data science, and Human-Computer Interaction. This is a website I created in dedication to the Human-Computer Interaction class I took in B term 2018.
+> Hi, my name is Sylvia Lin. I am a junior student studying Computer Science at Worcester Polytechnic Insitute. I am interested in topics related to design, data science, and Human-Computer Interaction. This is a website I created in dedication to the Human-Computer Interaction class I took in B term 2018.
 ---
 
 ## Project Overview
@@ -14,7 +14,7 @@ Our group of four worked in pairs and designed multiple charts using _Vega_ abou
 - ### Project 3 - **Design for Tension**
 Using _FlowXO_, our group of three designed a bot that persuades anti-vaccination people to see this issue from another perspective. 
 [Read More on Medium](https://medium.com/@sylvia7lin/design-for-tension-45ed1617a20c)
-- ### Project 2 - **Design for Wellbeing**
+- ### Project 4 - **Design for Wellbeing**
 To better help students find their true career passions, our group of four achieved two entirely different ways of utilizing the features of facial recognition (_Affectiva SDK_) with website development (_CSS_, _HTML_, and _Javascript_). 
 [Read More on Medium](https://medium.com/@sylvia7lin/design-reflection-design-for-well-being-44d1ec591f94)
 - ### Project 5 - **Design for Another World**
