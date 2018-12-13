@@ -7,20 +7,19 @@
 ## Project Overview
 
 - ### Project 1 - Design for Others
-lets c whether there is any diff
-> Here is some brief description of the project.
+Here is some brief description of the project.
 [**Read on Medium**](https://medium.com/@huntercaouette/designing-for-others-a064161b2284)
 - ### Project 2 - Design for Understanding
-> Here is some brief description of the project.
+Here is some brief description of the project.
 [**Read on Medium**](https://medium.com/@sylvia7lin/design-document-design-for-understanding-2df6a4110758)
 - ### Project 3 - Design for Tension
-> Here is some brief description of the project.
+Here is some brief description of the project.
 [**Read on Medium**](https://medium.com/@sylvia7lin/design-for-tension-45ed1617a20c)
 - ### Project 2 - Design for Wellbeing
-> Here is some brief description of the project.
+Here is some brief description of the project.
 [**Read on Medium**](https://medium.com/@sylvia7lin/design-reflection-design-for-well-being-44d1ec591f94)
 - ### Project 5 - Design for Another World
-> Here is some brief description of the project.
+Here is some brief description of the project.
 [**Read on Medium**]
 
 
