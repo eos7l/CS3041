@@ -17,7 +17,7 @@ Using _FlowXO_, our group of three designed a bot that persuades anti-vaccinatio
 To better help students find their true career passions, our group of four achieved two entirely different ways of utilizing the features of facial recognition (_Affectiva SDK_) with website development (_CSS_, _HTML_, and _Javascript_). 
 [Read More on Medium](https://medium.com/@sylvia7lin/design-reflection-design-for-well-being-44d1ec591f94)
 - ### Project 5 - **Design for Another World**
-In this four-people project, we established a VR model of a teahouse on _A-Frame_. We manipulated colors and lines to bring people into a surreal space where there is no clear boundary between reality and virtuality. 
+In this four-people project, we established a VR model of a teahouse on _A-Frame_. We manipulated colors and lines to bring people into a surreal space where there is no clear boundary between dream and real life. 
 [Read More on Medium]
 
 
