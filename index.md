@@ -1,7 +1,7 @@
 # Design Portfolio
    
-> Hi, my name is Sylvia Lin. 
-I am a junior student majoring in Computer Science at Worcester Polytechnic Insitute. I am interested in studying topics related to design, data science, and Human-Computer Interaction(HCI). This is a website I created in dedication to the HCI class I took in B term 2018.
+``` Hi, my name is Sylvia Lin. ```
+I am a junior student majoring in Computer Science at Worcester Polytechnic Insitute. I am interested in studying topics related to design, data science, and Human-Computer Interaction (HCI). This is a website I created in dedication to the HCI class I took in B term 2018.
 
 ## Project Overview
 
