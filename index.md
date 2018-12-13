@@ -1,12 +1,8 @@
 # Design Portfolio
 
-```
-Hi, my name is Sylvia Lin. I am a junior student studying Computer Science
-at Worcester Polytechnic Insitute. I am interested in topics related to 
-design, data science, and Human-Computer Interaction. This is a website 
-I created in dedication to the Human-Computer Interaction class I took in 
-B term 2018. 
-```
+`
+Hi, my name is Sylvia Lin. I am a junior student studying Computer Science at Worcester Polytechnic Insitute. I am interested in topics related to design, data science, and Human-Computer Interaction. This is a website I created in dedication to the Human-Computer Interaction class I took in B term 2018. 
+`
 
 ## Project Overview
 - ### Project 1 - Design for Others
@@ -22,11 +18,11 @@ Here is some brief description of the project.
 Here is some brief description of the project.
 [Read My Medium Post](https://medium.com/@sylvia7lin/design-reflection-design-for-well-being-44d1ec591f94)
 - ### Project 5 - Design for Another World
-```markdown
 Here is some brief description of the project.
 [Read Our Medium Post]
-```
 
+
+```markdown
 ## Design Manifesto
 Here I have a medium post. These are the five main design principles that guide me through the design processes.
 1. first
@@ -34,5 +30,6 @@ Here I have a medium post. These are the five main design principles that guide 
 3. third 
 4. fourth
 5. fifth
-To read more in details, please click here. 
 
+To read more in details, please click here. 
+```
