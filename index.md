@@ -31,4 +31,4 @@ These are the five main design principles that guide me through the design proce
 To see more in details, please [Read my Medium]. 
 
 
-'Special thanks to all my past group members who contributed great work to the projects I completed for this class.'
+`Special thanks to all my past group members who contributed great work to the projects I completed for this class.`
