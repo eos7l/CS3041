@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+# Design Portfolio
 
+```
+Personal background inserted here
 You can use the [editor on GitHub](https://github.com/eos7l/CS3041/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```
 
-### Markdown
+## Project Overview
+### Project 1 - Design for Others 
+### Project 2 - Design for Understanding
+### Project 3 - Design for Tension
+### Project 2 - Design for Wellbeing - [Medium Post](https://medium.com/@sylvia7lin/design-reflection-design-for-well-being-44d1ec591f94)
+Here is some brief description of the projecct  
+### Project 5 - Design for Another World
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
