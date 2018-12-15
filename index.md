@@ -18,7 +18,7 @@ To better help students find their true career passions, our group of four achie
 [Read More on Medium](https://medium.com/@sylvia7lin/design-reflection-design-for-well-being-44d1ec591f94)
 - ### Project 5 - **Design for Another World**
 In this four-people project, we established a VR model of a teahouse on _A-Frame_. We manipulated colors and lines to bring people into a surreal space where there is no clear boundary between dream and real life. 
-[Read More on Medium]
+[Read More on Medium](https://medium.com/@sylvia7lin/design-reflection-design-for-another-world-6de14230cc)
 
 
 ## Design Manifesto
@@ -28,6 +28,7 @@ These are my own main design principles that guide me through the design process
 3. Make multiple prototypes
 4. Be open to learn anything along the way
 5. Clearly define the user testing process
+
 [Read More on Medium](https://medium.com/@sylvia7lin/design-manifesto-debf1572a80). 
   
 
