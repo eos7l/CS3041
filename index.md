@@ -22,13 +22,13 @@ In this four-people project, we established a VR model of a teahouse on _A-Frame
 
 
 ## Design Manifesto
-These are the five main design principles that guide me through the design processes.
-1. first
-2. second
-3. third 
-4. fourth
-5. fifth
-[Read More on Medium]. 
+These are my own main design principles that guide me through the design processes.
+1. Think about why before you make any design choice
+2. Be aware of the scales and limitations
+3. Make multiple prototypes
+4. Be open to learn anything along the way
+5. Clearly define the user testing process
+[Read More on Medium](https://medium.com/@sylvia7lin/design-manifesto-debf1572a80). 
   
 
 `Special thanks to all my past teammates who contributed great work to the projects I completed for this class.`
