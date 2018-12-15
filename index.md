@@ -22,7 +22,7 @@ In this four-people project, we established a VR model of a teahouse on _A-Frame
 
 
 ## Design Manifesto
-These are my own main design principles that guide me through the design processes.
+These are my own main design principles that guided me through the design processes.
 1. Think about why before you make any design choice
 2. Be aware of the scales and limitations
 3. Make multiple prototypes
